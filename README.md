@@ -29,7 +29,7 @@ Este proyecto fue realizado por un equipo interdisciplinario de apasionados por 
 ### Características del Proyecto
 Arquitectura: Basada en YOLOv8, que ofrece capacidades avanzadas de detección de objetos en tiempo real.
 Flexibilidad: Compatible con múltiples configuraciones de hardware, ideal para despliegues locales o en la nube.
-Uso: Diseñado específicamente para detectar "La Chunche Besucona", un objeto único con patrones complejos.
+Uso: Diseñado específicamente para detectar "La Chinche Besucona", un objeto único con patrones complejos.
 Facilidad de Uso: Incluye un pipeline claro para entrenar, evaluar y desplegar el modelo.
 
 ### Instrucciones de Uso
