@@ -1,4 +1,4 @@
-### Detector de "La Chunche Besucona" - YOLOv8
+### Detector de "La Chinche Besucona" - YOLOv8
 Este repositorio contiene el modelo de visión artificial desarrollado en YOLOv8 para la clasificación y detección de la icónica "Chinche Besucona". Este proyecto representa la primera versión de nuestro detector de visión artificial, destacando por su rendimiento impresionante en la mayoría de las métricas evaluadas.
 
 Desempeño del Modelo
