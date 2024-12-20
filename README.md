@@ -13,15 +13,16 @@ Este modelo logra un excelente balance entre precisión y recall, posicionándos
 
 Equipo de Desarrollo
 Este proyecto fue realizado por un equipo interdisciplinario de apasionados por la inteligencia artificial:
+### Lista de Nombres
 
-Chumba Poot Héctor Iván
-Lara Puc Miguel Armando
-Vallejos Silvera Daniel Leonardo
-Alonzo Silvera Héctor José
-Coor Jiménez Ángel Fabián
-Cetina Abigail
-Caballero Escamilla José Gael
-Espinosa Chim Alejandro Daniel 
+- Chumba Poot Héctor Iván
+- Lara Puc Miguel Armando
+- Vallejos Silvera Daniel Leonardo
+- Alonzo Silvera Héctor José
+- Coor Jiménez Ángel Fabián
+- Cetina Abigail
+- Caballero Escamilla José Gael
+- Espinosa Chim Alejandro Daniel
 
 Características del Proyecto
 Arquitectura: Basada en YOLOv8, que ofrece capacidades avanzadas de detección de objetos en tiempo real.
