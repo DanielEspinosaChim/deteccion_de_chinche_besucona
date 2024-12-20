@@ -9,7 +9,7 @@ Recall (R@B): 0.9041
 mAP@50 (B): 0.9588
 mAP@50-95 (B): 0.6539
 Fitness: 0.6844
-Este modelo logra un excelente balance entre precisión y recall, posicionándose como una solución confiable para la detección de "La Chunche Besucona".
+Este modelo logra un excelente balance entre precisión y recall, posicionándose como una solución confiable para la detección de "La Chinche Besucona".
 
 ### Equipo de Desarrollo
 Este proyecto fue realizado por un equipo interdisciplinario de apasionados por la inteligencia artificial:
