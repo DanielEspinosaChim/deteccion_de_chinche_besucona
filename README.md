@@ -18,7 +18,7 @@ Este proyecto fue realizado por un equipo interdisciplinario de apasionados por 
 - Chumba Poot Héctor Iván
 - Lara Puc Manuel Armando
 - Vallejos Aguiar Daniel Leonardo
-- Alonzo Silvera Héctor José
+- Alonzo Silveira Héctor José
 - Coot Jiménez Ángel Fabián
 - Cetina Romero Abigail
 - Caballero Escamilla José Gael
