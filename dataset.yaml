@@ -1,0 +1,6 @@
+# dataset.yaml
+train: /content/extracted_files/chincheData/train/images/
+val: /content/extracted_files/chincheData/val/images/
+# Classes
+nc: 1 # number of classes
+names: ['chinche'] # class names
