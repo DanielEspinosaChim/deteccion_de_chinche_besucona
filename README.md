@@ -21,7 +21,6 @@ Este proyecto fue realizado por un equipo interdisciplinario de apasionados por 
 - Alonzo Silveira Héctor José
 - Coot Jiménez Ángel Fabián
 - Cetina Romero Abigail
-- Caballero Escamilla José Gael
 - Borges Borges Miguel Angel
 - Espinosa Chim Alejandro Daniel
   
