@@ -23,7 +23,7 @@ Este proyecto fue realizado por un equipo interdisciplinario de apasionados por 
 - Cetina Romero Abigail
 - Borges Borges Miguel Angel
 - Espinosa Chim Alejandro Daniel
-  
+- Cumi Guzman Brian Azael
 
 ### Características del Proyecto
 Arquitectura: Basada en YOLOv8, que ofrece capacidades avanzadas de detección de objetos en tiempo real.
